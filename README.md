@@ -13,3 +13,5 @@ The persons involved in the team are
 |4.|Aditi|https://www.github.com/aditi119|
 |5.|Ashish|https://www.github.com/ASHISH-KUMAR-PANDEY|
 |6.|Anindita|https://www.github.com/anindita02|
+|7.|Kush Agarwal|https://www.github.com/kushagarwal24|
+|8.|Shrishti Kapoor|https://www.github.com/shrishtikapoor01|
